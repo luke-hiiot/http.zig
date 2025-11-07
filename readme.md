@@ -1,5 +1,13 @@
 # An HTTP/1.1 server for Zig.
 
+```shell
+
+cd ../
+git clone git@github.com:luke-hiiot/websocket.zig.git
+git clone git@github.com:luke-hiiot/metrics.zig.git
+
+```
+
 ```zig
 const std = @import("std");
 const httpz = @import("httpz");
