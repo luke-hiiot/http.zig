@@ -1,0 +1,6 @@
+[submodule "libs/websocket.zig"]
+	path = libs/websocket.zig
+	url = git@github.com:luke-hiiot/websocket.zig.git
+[submodule "libs/metrics.zig"]
+	path = libs/metrics.zig
+	url = git@github.com:luke-hiiot/metrics.zig.git
