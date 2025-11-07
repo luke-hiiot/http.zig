@@ -5,10 +5,10 @@
     .fingerprint = 0x472add02ac73d53c,
     .dependencies = .{
         .metrics = .{
-            .path = "./libs/metrics.zig",
+            .path = "../metrics.zig",
         },
         .websocket = .{
-            .path = "./libs/websocket.zig",
+            .path = "../websocket.zig",
         },
     },
 }
